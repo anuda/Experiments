@@ -123,9 +123,9 @@ class DavidNet(tf.keras.Model):
 
 The above model can better explained using the following image. The above 2 classes should be referred for clarity
 
-![IMG_20191225_130804](/home/anuda/Downloads/IMG_20191225_130804.jpg) 
+![IMG_20191225_130804](IMG_20191225_130804.jpg) 
 
-![IMG_20191225_130816](/home/anuda/Downloads/IMG_20191225_130816.jpg)
+![IMG_20191225_130816](IMG_20191225_130816.jpg)
 
 
 

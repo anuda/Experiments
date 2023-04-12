@@ -210,3 +210,4 @@ for epoch in range(EPOCHS):
   print('epoch:', epoch+1, 'lr:', lr_schedule(epoch+1), 'train loss:', train_loss / len_train, 'train acc:', train_acc / len_train, 'val loss:', test_loss / len_test, 'val acc:', test_acc / len_test, 'time:', time.time() - t)
 ```
 
+https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/details/SENIOR-DATA-SCIENTIST_R-1461652?q=senior%20data%20scientist&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&locationRegionStateProvince=701eb5584934425d930bc84b9e8b04eb
